@@ -32,8 +32,8 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="assets/Simulator Screen Shot - iPhone X - 2020-03-20 at 13.56.56.png" width="100%">
-  <img alt="Frontend" src="assets/Screenshot_1584723531.png" width="100%">
+  <img alt="Frontend" src="assets/Simulator Screen Shot - iPhone X - 2020-03-20 at 13.56.56.png" width="50%">
+  <img alt="Frontend" src="assets/Screenshot_1584723531.png" width="50%">
 </p>
 
 ## :rocket: Tecnologias
